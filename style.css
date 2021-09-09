@@ -95,3 +95,7 @@ footer div#volver a{
     background-repeat:no-repeat;
     background-position: 10% center;
 }
+
+footer div#next {
+    text-align: right;
+}
